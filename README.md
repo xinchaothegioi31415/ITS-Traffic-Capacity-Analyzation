@@ -8,7 +8,7 @@ ITS là hệ thống phân tích giao thông bao gồm các thành phần:
 | 2 | Nhận diện tai nạn giao thông | [link!](https://github.com/xinchaothegioi31415/Accident_Machine-learning) |
 | 3 | Công nghệ phát hiện vượt đèn đỏ | not found! |
 
->Hệ thống sử dụng công nghệ Machine Learning thông qua thư viện mã nguồn mở Darkflow để huấn luyện cho máy tính.
+>Hệ thống sử dụng công nghệ Machine Learning thông qua thư viện mã nguồn mở [Darkflow](https://github.com/thtrieu/darkflow) để huấn luyện cho máy tính.
 >Ngoài ra, hệ thống còn sử dụng thư viện mã nguồn mở OpenCV để phân tích hình ảnh.
 
 # Phân tích lưu lượng giao thông
