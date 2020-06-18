@@ -54,5 +54,8 @@ Sau khi cài đặt xong, bạn nhập vào **"cmd"** dòng lệnh sau để ti�
 $ python main.py
 ```
 ![Image](/images/image4.png/ "Image4")
+
+### Video hướng dẫn
+[![VIDEO HƯỚNG DẪN](https://yt-embed.herokuapp.com/embed?v=GlTSvSGjCzc)](https://youtu.be/GlTSvSGjCzc "VIDEO HƯỚNG DẪN")
 ***
 Xong rồi! Hell yeah! 😁
